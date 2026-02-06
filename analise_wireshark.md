@@ -24,7 +24,7 @@ Nesta análise, foi possível identificar:
 * Estrutura de diretórios e links do site (ex: `artists.php`, `categories.php`).
 * O ponto exato onde campos de formulários de login capturam dados sensíveis.
 * A vulnerabilidade inerente ao tráfego sem certificados SSL/TLS.
-![Follow HTTP Stream](wireshark1.png)
+![Follow HTTP Stream](wireshark2.png)
 *Figura 3: Reconstrução do tráfego revelando o conteúdo da camada de aplicação.*
 ## 🏁 Conclusão
 A prática demonstrou que a segurança começa na escolha do protocolo. O uso do Wireshark evidenciou que, em uma rede monitorada, qualquer dado enviado via HTTP pode ser facilmente interceptado e lido, reforçando a necessidade crítica do uso de HTTPS para proteção de senhas e usuários.
