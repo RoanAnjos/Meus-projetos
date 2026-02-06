@@ -17,7 +17,7 @@
 
 [cite_start]**Cenário:** Precisamos localizar funcionários de departamentos críticos (**Vendas e Financeiro**) que estão utilizando sistemas operacionais obsoletos (**OS 1 e OS 2**) para priorizar a atualização de segurança[cite: 8, 9].
 
-> **[COLE AQUI A FOTO DO RESULTADO DA QUERY 1]**
+> ![Resultado Query 1](./foto5.png)
 
 ---
 
@@ -28,17 +28,17 @@
 ### **A) ACESSOS MALICIOSOS FORA DO HORÁRIO**
 [cite_start]Filtro aplicado para detectar tentativas de login que **falharam após as 18:00**, o que pode indicar tentativas de **força bruta**[cite: 31, 32].
 
-> **[COLE AQUI A FOTO DO RESULTADO DA QUERY 2A]**
+![Resultado Query 2A](./foto1.png)
 
 ### **B) JANELA DE INVESTIGAÇÃO DE INCIDENTE**
 [cite_start]Análise de todas as atividades ocorridas no período crítico de **08/05/2022 a 09/05/2022**[cite: 54, 71].
 
-> **[COLE AQUI A FOTO DO RESULTADO DA QUERY 2B]**
+> ![Resultado Query 2B](./foto2.png)
 
 ### **C) FILTRAGEM POR ORIGEM GEOGRÁFICA**
 [cite_start]Exclusão de tráfego vindo de regiões validadas (**México**) para focar a análise em **IPs externos e desconhecidos**[cite: 98, 99].
 
-> **[COLE AQUI A FOTO DO RESULTADO DA QUERY 2C]**
+> ![Resultado Query 2C](./foto3.png)
 
 ---
 
@@ -46,7 +46,7 @@
 
 [cite_start]**Cenário:** Localização de dispositivos no departamento de **Marketing** situados especificamente no prédio **Leste (East)** para auditoria física[cite: 128, 129].
 
-> **[COLE AQUI A FOTO DO RESULTADO DA QUERY 3]**
+> ![Resultado Query 3](./foto4.png)
 
 ---
 
