@@ -1,7 +1,7 @@
 # 🛡️ **RELATÓRIO DE INTELIGÊNCIA DE DADOS: AUDITORIA DE ATIVOS E RESPOSTA A INCIDENTES COM SQL**
 
-[cite_start]**Analista:** Roan Silva dos Anjos [cite: 2]
-[cite_start]**Especialidade:** **Segurança de Dados & Análise de Vulnerabilidades** [cite: 3]
+**Analista:** Roan Silva dos Anjos 
+**Especialidade:** **Segurança de Dados & Análise de Vulnerabilidades** 
 
 ---
 
@@ -26,7 +26,7 @@ Ao cruzar dados de **RH e TI**, transformei dados brutos em **ações preventiva
 Investigação focada em **padrões de acesso** que fogem à política de segurança da empresa.
 
 ### **A) ACESSOS MALICIOSOS FORA DO HORÁRIO**
-]Filtro aplicado para detectar tentativas de login que **falharam após as 18:00**, o que pode indicar tentativas de **força bruta**.
+Filtro aplicado para detectar tentativas de login que **falharam após as 18:00**, o que pode indicar tentativas de **força bruta**.
 
 ![Resultado Query 2A](./foto1.png)
 
